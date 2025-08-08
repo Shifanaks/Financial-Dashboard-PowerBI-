@@ -20,7 +20,7 @@ This project presents a detailed financial analysis using Power BI, based on a d
 - Slicers: Year, Month, Product for dynamic filtering
 
 ## Financial Dashboard
-- <a href="https://github.com/Shifanaks/Financial-Dashboard-PowerBI-/blob/main/Financial-Dashboard(PowerBI).pdf">Dataset</a>
+- <a href="https://github.com/Shifanaks/Financial-Dashboard-PowerBI-/blob/main/Financial-Dashboard(PowerBI).pdf">Dashboard</a>
 
 ## Presentation-Report
-- <a href="https://github.com/Shifanaks/Financial-Dashboard-PowerBI-/blob/main/Financial-Report.pptx">Dataset</a>
+- <a href="https://github.com/Shifanaks/Financial-Dashboard-PowerBI-/blob/main/Financial-Report.pptx">Presentation</a>
